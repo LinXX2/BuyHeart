@@ -1,0 +1,2 @@
+cmd_buyheart: Buyheart.buy
+cmd_sethearts: Buyheart.set

@@ -1,0 +1,9 @@
+name: BuyHeart
+version: 1.0
+author: Lin_XX
+main: me.linxx.buyheart.main.BuyHeart
+depends: Vault
+
+commands: 
+  buyheart: 
+  sethearts: 

@@ -1,0 +1,5 @@
+no_permission_message: Das darfst du nicht
+not_enought_money_message: Dafür hast du nicht genug Geld
+on_buy_heart: Dir wurde ein Herz hinzugefügt
+on_sethearts: Du hast die Herzen von %player% auf %hearts% gesetzt
+target_is_no_player: Das Ziel ist kein Spieler
